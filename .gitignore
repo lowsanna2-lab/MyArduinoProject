@@ -1,0 +1,10 @@
+# Arduino build and temporary files
+build/
+bin/
+*.hex
+*.elf
+*.o
+
+# Desktop folders
+.DS_Store
+Thumbs.db
